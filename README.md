@@ -1,6 +1,6 @@
 # first_flutter_web
 
-A new Flutter project.
+First flutter project for web.
 
 ## Getting Started
 
